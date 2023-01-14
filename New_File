@@ -5,11 +5,13 @@ Things I need to do today:
 1. Fix usability problem
 2. Clean up the page
    * Make the headings bigger
+   * NEW CHANGE ON MAIN
 3. Push my changes
 4. Create code review
    * Describe my changes
    * Assign reviewers
      * Ask for feedback
+     * NEW CHANGE ON BRANCH
 
 Kitchen Cleanup Rotation
 
@@ -20,10 +22,6 @@ Kitchen Cleanup Rotation
 | March    | Diane    | Jorge  |
 
 Here's the same text with character formatting.
-
-* The text in the first column is flush right.
-* The text in the second column is centered.
-* The Markdown is stripped down to the minimum syntax that is required to render the table.
 
 Month | Assignee | Backup
 ---:|:---:| ---
