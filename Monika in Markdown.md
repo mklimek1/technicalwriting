@@ -22,6 +22,7 @@ this is **bold** text
 This is also __bold__ text
 
 <!-- Example of italic  -->
+
 This is *italic* text.
 
 <!-- Example of strikethough-->
