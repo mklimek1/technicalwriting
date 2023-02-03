@@ -2,11 +2,11 @@
 
 ## What is Machine Translation in General?
 
-Machine Translation (MT) or automated translation is a process when a computer software translates text from one language to another **without human involvement**.
+Machine Translation (MT) or automated translation happens when a computer software translates text from one language to another **without human involvement**.
 
 ### How does Machine Translation Work?
 
-MT works with large amounts of source and target languages that are compared and matched against each other by a machine translation engine. We differentiate three types of machine translation methods:
+MT works with large amounts of source and target languages that are compared and matched against each other by a machine translation engine. There are three types of machine translation methods:
 
 - **Rules-based machine translation**
 uses grammar and language rules, developed by language experts, and dictionaries which can be customized to a specific topic or industry.
@@ -17,6 +17,6 @@ uses grammar and language rules, developed by language experts, and dictionaries
 
 #### What are the benefits of Machine Translation?
 
-- **Saves time**: Machine language translation can save significant time as it is capable of translating entire text documents in seconds. However, please bear in mind that human translators should always post-edit translations done by MTs.
-- **Reduces costs**: Machine Translation can substantially lower your costs, as it requires less human involvement.
-- **Memorizes items**: Another benefit of machine language translation is its ability to memorize key terms and reuse them wherever they might fit.
+- **Saves time**: Machine language translation can save a lot of time as it can translate entire text documents in seconds, but bear in mind that human translators should always post-edit translations done by MTs.
+- **Reduces costs**: Machine Translation can lower your costs, as it requires less human involvement.
+- **Memorizes items**: Another benefit of machine language translation is its ability to memorize key terms and reuse them if they might fit.
