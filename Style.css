@@ -1,3 +1,11 @@
-p [
+p {
     font-size: 30px
-]
+}
+.gallery
+h1,h2 {
+    color:gold;
+}
+p a {
+    color: blue;
+}
+   
