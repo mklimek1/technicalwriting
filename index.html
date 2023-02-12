@@ -13,13 +13,24 @@
             </style>
         </head>
         <body>
-            <p style="color:brown">to jest mój paragraf</p>
-            <p class="alert" style="color:blue">a to jest drugi paragraf</p>
-            <style>
-                p {
-                    color: gold;
+            
+            <p class = "info">
+                <a class="warning">ale ten drugi</a> <a class= "critical"> ten pozostanie</a>
+                <a class="description"> no nie wiem </a><del></del>
+            </p>    
+
+            <style> 
+            p.info {
+                color: blue;
                 font-weight: bold;
             }
+            a.warning {
+                color: orange;
+    
+            }
+            p.info a.critical {color: red;
+            }
             </style>
+           
         </body>
     </html>
