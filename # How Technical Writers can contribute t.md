@@ -74,7 +74,7 @@ To conclude, technical writers can find and identify open source projects by bro
 
 4. [OpenHatch](http://openhatch.org/ "OpenHatch"): OpenHatch is a non-profit organization that helps newcomers find their way into the world of open source. Technical writers can find open-source projects on the OpenHatch website and contribute to their documentation. The website has a section called "Bitesize Tasks" that lists small tasks that beginners can work on to get started in open source.
 
-## Key takeaways
+### Key takeaways
 
 In summary, Google Summer of Code, Outreachy, Mozilla Open Leaders, and OpenHatch are some of the resources that technical writers’ beginners can explore to find open-source projects and opportunities. It's important to note that the availability of these programs and opportunities may vary from year to year, and interested individuals should check their websites for the latest information.
 
@@ -96,7 +96,7 @@ First, you'll want to find a project on GitHub you intend to contribute to. To s
 2. Contact the project maintainers: Reach out to the project maintainers to introduce yourself and express your interest in contributing as a technical writer. Do this through email, social media, or other communication channels that the project uses.
 3. Ask for guidance: Ask the project maintainers for guidance on how to contribute as a technical writer. They may have specific needs or areas where they need help, and they can provide you with information on the project's documentation standards, style guide, and other guidelines.
 
-## Key takeaways
+### Key takeaways
 
 In summary, it is important to search for a project of one’s interest, as one of the main advantages of working for an OS software project is this flexibility and ability to fulfil oneself through the project.
 
@@ -172,23 +172,20 @@ Documentation is also essential for users, who rely on it to understand how to u
 Usability testing and feedback from users are essential for creating effective documentation. Technical writers should seek feedback from users to ensure that the documentation meets their needs and effectively communicates information. By gathering feedback, technical writers can identify areas where the documentation may be unclear or confusing and make adjustments to improve its effectiveness.
 Usability testing can also help technical writers identify areas where the software itself may be difficult to use or understand. By testing the documentation with real users, technical writers can identify common problems or areas of confusion and work with developers to improve the software's usability. This collaboration between technical writers and developers can ultimately lead to better software and a better user experience.
 
-
 Furthermore, feedback from users can help technical writers stay up to date with changes in the software and user needs. As software evolves, technical writers must ensure that the documentation accurately reflects those changes and continues to provide value to users. By seeking feedback and incorporating it into their work, technical writers can ensure that the documentation remains relevant and effective over time.
 
 ## 11. Face
 
 Challenges and opportunities you may encounter when working for Open Source
-Working on open-source projects as a technical writer presents both challenges and opportunities. 
+Working on open-source projects as a technical writer presents both challenges and opportunities.
 
 One of the main challenges is the need to be self-directed and manage your time effectively. As an open-source technical writer, you may not have a manager or team leader guiding your work or setting deadlines. This means that you need to be able to prioritize tasks, set goals, and manage your time effectively to ensure that you are meeting the project's needs and contributing to the community in a meaningful way.
-
 
 Another challenge is the need to collaborate effectively with a distributed team of developers, designers, and other stakeholders. Communication and coordination can be challenging when working with people from different time zones, cultures, and backgrounds. Technical writers must be able to navigate these differences, work collaboratively with others, and communicate effectively to ensure that the documentation meets the project's goals and reflects the needs of the intended audience.
 
 Despite these challenges, working on open-source projects as a technical writer also presents many opportunities. One of the biggest advantages is the chance to work with a dedicated community of contributors who are passionate about the project and committed to its success. This community can provide valuable feedback, support, and collaboration opportunities that can help technical writers improve their skills and make meaningful contributions to the project.
 
 Another advantage is the opportunity to learn new technologies, tools, and techniques. Open-source projects often involve cutting-edge technologies and development practices that can be challenging and exciting to work with. Technical writers can use their involvement in open-source projects to develop new skills, gain experience with new tools, and enhance their professional portfolio.
-
 
 Working on open-source projects as a technical writer presents both challenges and opportunities. To be successful in this role, technical writers must be self-directed, able to manage their time effectively, and skilled in collaborating with a distributed team. The benefits of working with a dedicated community of contributors and the opportunity to learn new technologies and techniques make open-source projects an exciting and rewarding area for technical writers to explore.
 
@@ -198,10 +195,9 @@ How to stay up-to-date?
 
 As technology continues to evolve, technical writers must stay up-to-date with industry best practices and emerging trends in software development and technical writing. Keeping up with these changes requires a commitment to ongoing learning and professional development. Technical writers should seek out resources that can help them expand their knowledge and skills, such as attending industry conferences, participating in webinars and online courses, and engaging with industry peers through professional organizations and online forums.
 
+One valuable resource for ongoing professional development is attending industry conferences. These events bring together experts and thought leaders in the field, providing technical writers with access to the latest trends, best practices, and emerging technologies.
 
-One valuable resource for ongoing professional development is attending industry conferences. These events bring together experts and thought leaders in the field, providing technical writers with access to the latest trends, best practices, and emerging technologies. 
-
-Conferences also offer opportunities to network with other professionals in the industry, which can lead to valuable connections and insights. In addition to conferences, technical writers can also participate in webinars and online courses that provide flexible and convenient access to new knowledge and skills. 
+Conferences also offer opportunities to network with other professionals in the industry, which can lead to valuable connections and insights. In addition to conferences, technical writers can also participate in webinars and online courses that provide flexible and convenient access to new knowledge and skills.
 
 Online forums and professional organizations are also excellent resources for staying up-to-date with industry trends and best practices, as they offer opportunities to connect with other professionals in the field and share knowledge and insights. By staying up-to-date with the latest industry developments, technical writers can better meet the needs of their audiences and contribute to the success of their organizations.
 
@@ -246,8 +242,7 @@ Thirdly, technical writers for open-source projects have to be more adaptable an
 
 Overall, being a technical writer for open-source projects requires a high degree of independence, adaptability, and self-motivation, as well as a passion for working collaboratively with a global community of developers and users.
 
-### Here are some questions to consider when deciding if you would be a good fit for open-source technical writing versus working as a technical writer for a software company:
-
+### Here are some questions to consider when deciding if you would be a good fit for open-source technical writing versus working as a technical writer for a software company
 
 1. How much do you value collaboration and community involvement? If you enjoy working with a team and contributing to a project that has a wider impact, open-source technical writing may be a good fit for you. If you prefer working within the structure of a single company and contributing to internal projects, a full-time technical writing role at a software company may be a better fit.
 2. Are you comfortable with self-directed work?
